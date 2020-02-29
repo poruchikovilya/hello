@@ -3,3 +3,4 @@ privet pidor
 новая строка
 
 Hello, git!
+Hello, git rebase!
