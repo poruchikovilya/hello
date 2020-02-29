@@ -1,3 +1,5 @@
 privet pidor
 гавно пес
 новая строка
+
+Hello, git!
